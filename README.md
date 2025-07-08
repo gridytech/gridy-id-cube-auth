@@ -4,9 +4,4 @@ One-Time Graphical Cube Authentication utilises a graphical cube interface where
 
 Watch a short video to see Gridy Cube Authentication in action.
 
-
-<center>
-      <video preload="metadata" poster="" controls loop >
-                <source src="https://www.youtube.com/watch?v=jlJykkuCmC8">
-       </video>
-</center>
+[![Watch the video](https://www.youtube.com/watch?v=jlJykkuCmC8)](https://www.youtube.com/watch?v=jlJykkuCmC8)
